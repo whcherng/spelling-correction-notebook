@@ -1,0 +1,56 @@
+The use of corticosteroids together with ribavirin has been reported to confer clinical benefit, although randomized clinical trials to support its clinical efficacy are not available. 
+
+The use of coricosteroids together with ribavirin has been reported to confer clinical benefit, althought randomised clinical trials to support its clinical efficancy are not available.
+
+Ori:
+All amino acids at the anchor positions other than the permissible ones were assigned low scores to exclude peptides with non-permissible amino acids from the list of predicted binders. The final binding scores were normalized to a scale of 1–9 and the final models were tested and validated rigorously.
+
+bad:
+All amimo acids at the anchor positions other than the permissible ones were assigned low scores to exclude petides with non-permisible amimo acids from the list of predicted binders. The final binding scores were normalised to a scale of 1–9 and the final models were tested and validated rigorous.
+
+after:
+All amino acids at the anchor positions other than the permissive ones were assigned low scores to exclude peptides with non-permisible amino acids from the list of predicted binders The final binding scores were normalized to a scale of 1–9 and the final models were tested and validated rigorously
+
+Ori
+Eighteen participants revealed that they shared information from the Extranet with others outside of the committee. The information they shared most often included provincial directives and local information such as Hamilton medical advisories and Steering Committee minutes (Table 5).
+
+Bad 
+Eighteen participants revealed that they shared information from the Extranet with others outside of the comitee. The information they shared most often included provincial directives and local informasion such as Hamilton medical advisors and Steering Committee minutes (Table 5). 
+
+After:
+Eighteen participants revealed that they shared information from the Extranet with others outside of the comitee. The information they shared most often included provincial directives and local information such as Hamilton medical advisories and Steering Committee minutes
+
+
+Ori:
+It was assumed that two test sequences could be distinguished if one of them contained a sub-sequence and the other did not, even if the second contained a sub-sequence that differed from one in the first at only one position, as hybridisation methods to distinguish such sequences are well established for the assay of single nucleotide polymorphisms
+
+
+Bad:
+It was assumed that two test sequence could be distinguished if one of them contained a sub-sequence and the other did not, even if the second contaned a sub-sequence that differed from one in the first at only on position, as hybridisation methods to distinguish such sequences are well established for the assay of single nucletide polymorphis
+
+
+After:
+It was assumed that two test sequence could be distinguished if one of them contained a sub-sequence and the other did not even if the second contained a sub-sequence that differed from one in the first at only on position as hybridisation methods to distinguish such sequences are well established for the assay of single nucleotide polymorphism
+
+
+Ori:
+One advantage of combining region-specific amplification with identification using combinatorial probes is that related but previously unrecognised or uncharacterised species or subtypes may be found. 
+
+Bad:
+One advanage of combining region-specific amplification with identifition using combinatorial probes is that relate but previosly unrecognised or uncharacterised species or subtypes may be find. 
+
+After:
+One advantage of recombining region-specific amplification with identification using combinatorial probes is that related but previously unrecognised or uncharacterised species or subtype may be find
+
+
+
+Ori:
+A health care professional has a duty to care, based on several ethical considerations such as professional code of conduct, intrinsic requirements of the work and the acceptance of risk as part of the decision to do a specific type of work.
+
+
+Bad:
+A health care professonal has a duty to care, based on several ethic considerations such as professional code of conduct, intrisic requirements of the work and the accept of risk as part of the decision to do a specific type of work.
+
+After:
+A health care professionals has a day to are based on several this consideration such as professionals code of conduct intrinsic requirements of the work and the acceptor of risk as part of the decision to do a specific type of work
+
