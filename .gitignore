@@ -1,2 +1,4 @@
 .idea
 no_line_break_output.txt
+text_only_output.txt
+pretrained_model.pkl
